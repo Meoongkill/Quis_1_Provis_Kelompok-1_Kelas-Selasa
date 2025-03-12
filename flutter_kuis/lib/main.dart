@@ -42,7 +42,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => AkademikUKT()),
+                MaterialPageRoute(builder: (context) => InformasiPembayaranUKTPage()),
               );
             },
           ),
@@ -51,7 +51,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => AkademikNilai()),
+                MaterialPageRoute(builder: (context) => InformasiPerkuliahanPage()),
               );
             },
           ),
@@ -78,7 +78,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => KeuanganPage()),
+                MaterialPageRoute(builder: (context) => TrackingKeuanganPage()),
               );
             },
           ),
@@ -87,7 +87,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => KontakPage()),
+                MaterialPageRoute(builder: (context) => ContactsPage()),
               );
             },
           ),
@@ -96,7 +96,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => KontakGrupPage()),
+                MaterialPageRoute(builder: (context) => GroupContactsPage()),
               );
             },
           ),
@@ -105,7 +105,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => MentalHealthPage()),
+                MaterialPageRoute(builder: (context) => MentalHealthScreen()),
               );
             },
           ),
@@ -114,7 +114,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => NotifikasiPage()),
+                MaterialPageRoute(builder: (context) => NotificationScreen()),
               );
             },
           ),
@@ -123,7 +123,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => SosmedPage()),
+                MaterialPageRoute(builder: (context) => SocialMediaPage()),
               );
             },
           ),
@@ -132,7 +132,7 @@ class MyHomePage extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => ToDoPage()),
+                MaterialPageRoute(builder: (context) => JadwalToDoPage()),
               );
             },
           ),
