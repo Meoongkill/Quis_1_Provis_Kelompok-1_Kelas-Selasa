@@ -1,16 +1,19 @@
-# quiz_flutter_real
+# Quis 1 Provis Kelompok 1 Kelas Selasa
 
-A new Flutter project.
+Ini adalah repository, untuk kelompok 1 Kelas C2-2023 Atas nama
+- Muhammad Fathan Putra   (2300330)
+- Muhammad Alvinza        (2304879)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dalam repository ini berisi Gambaran Desain awal dan file Flutternya. 
+Kami memiliki total 10 Pages dengan keterangan sebagai berikut:
+0. Halaman Utama
+1. Mental Health - Utama
+2. Akademik - Transkrip Nilai
+4. Akademik - UKT
+5. Elearning - Utama
+6. Pesan dan Group - Kontak
+7. Pesan dan Group - Pesan
+8. Media Sosial
+9. Keuangan
+10. Notifikasi 
+11. Jadwal & To do
